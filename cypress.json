@@ -1,0 +1,8 @@
+{
+  "projectId": "nchirv",
+  "baseUrl": "http://localhost:4200/",
+  "defaultCommandTimeout": 5000,
+  "env": {
+    "serverUrl": "localhost:42001"
+  }
+}
